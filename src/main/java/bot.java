@@ -11,7 +11,7 @@ public class bot {
     public static void main (String[] args) throws LoginException {
 
         /* Log in to the bot with the bot token */
-        final String token = "token";
+        final String token = "Token";
         JDABuilder jdabuilder = JDABuilder.createDefault(token);
 
         /* Define jda as the built bot */

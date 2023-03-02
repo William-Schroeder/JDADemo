@@ -27,7 +27,7 @@ public class CommandListen extends ListenerAdapter {
                     break;
                 }
 
-                /* note that this is only a switch case because it is set to have more commands */
+                /* note that this is only a switch case because it is set up to have more commands */
             /* if I were to permanently only have 1 command I would use an if statement */
 
         }
